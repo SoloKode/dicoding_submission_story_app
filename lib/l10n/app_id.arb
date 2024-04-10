@@ -1,0 +1,58 @@
+{
+    "storyApp": "Aplikasi Cerita",
+    "loginText": "Masuk",
+    "registerText": "Daftar",
+    "logoutText" : "Keluar",
+
+
+    "emailHint": "Email",
+    "passwordHint": "Kata Sandi",
+    "nameHint": "Nama",
+
+    "emailValidator": "Tolong masukan email anda.",
+    "passwordValidator": "Tolong masukan kata sandi anda.",
+    "namaValidator": "Tolong masukan nama anda.",
+    "minPasswordValidator": "Tolong masukan kata sandi min 8 karakter.",
+
+    "logginIn" : "Sedang Masuk...",
+    "loggingOut" : "Sedang Keluar...",
+    
+    "invalidLogin" : "[Gagal Login] Periksa email atau password anda.",
+    "noNetwork" : "[Gagal Login] Periksa internet anda dan coba lagi.",
+    
+    "emailTaken" : "Email telah terdaftar",
+    "emailInvalid" : "Email tidak dikenali",
+
+    "registerFailed" : "[Daftar Gagal]",
+    "successRegister" : "Daftar Berhasil.",
+    "successLogin" : "Berhasil Masuk.",
+
+    "noData" : "Tidak ada data",
+    "data" : "Ada data",
+    "tryAgain" : "Coba lagi",
+    "internetIssue" : "Periksa internet anda dan coba lagi.",
+    "addNewStory" : "Tambah cerita baru",
+
+    "uploadPhoto" : "Unggah Foto",
+    "galleryText" : "Galeri",
+    "cameraText" : "Kamera",
+    "description" : "Deksripsi",
+    "descriptionValidator" : "Masukan Deskripsi.",
+    "uploadText" : "Unggah",
+
+    "storyBy" : "Cerita {user}",
+    "@storyBy" : {
+        "placeholders": {
+            "user": {
+              "type": "String"
+            }
+          }
+    },
+
+    "issue" : "Masalah: ",
+    "shareLocation": "Bagikan Lokasi",
+    "noPosition" : "Posisi Tidak Diseleksi",
+    "mix": "Acak",
+    "locationOnly" : "Hanya Lokasi",
+    "writeLocation" : "Lokasi Penulis"
+}

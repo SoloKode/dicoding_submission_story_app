@@ -1,0 +1,50 @@
+{
+    "storyApp": "Story App",
+    "loginText": "Login",
+    "registerText": "Register",
+    "emailHint": "Email",
+    "passwordHint": "Password",
+    "nameHint": "Name",
+    "emailValidator": "Please enter your email.",
+    "passwordValidator": "Please enter your password.",
+    "namaValidator": "Please enter your name.",
+    "minPasswordValidator": "Please enter your password, minimum 8 characters.",
+    "logginIn" : "Logging in...",
+    "successLogin" : "Successfully Login.",
+    "invalidLogin" : "[Login Failed] Your email or password is invalid.",
+    "noNetwork" : "[Login Failed] Please check your internet and try again.",
+    "successRegister" : "Register Succeeded.",
+    "emailTaken" : "Email is already taken",
+    "emailInvalid" : "Invalid email",
+    "registerFailed" : "[Register failed]",
+
+    "noData" : "No Data",
+    "data" : "Has data",
+    "tryAgain" : "Try Again",
+    "internetIssue" : "Please check your internet and try again.",
+    "addNewStory" : "Add New Story",
+
+    "uploadPhoto" : "Upload A Photo",
+    "galleryText" : "Gallery",
+    "cameraText" : "Camera",
+    "description" : "Description",
+    "descriptionValidator" : "Insert Description.",
+    "uploadText" : "Upload",
+
+    "storyBy" : "{user}'s Story",
+    "@storyBy" : {
+        "placeholders": {
+            "user": {
+              "type": "String"
+            }
+          }
+    },
+
+    "issue" : "Issue: ",
+    "shareLocation": "Share Your Location",
+    "noPosition" : "No Position Selected",
+    "mix": "Mix",
+    "locationOnly" : "Location Only",
+    "writeLocation" : "Writer's Location"
+
+}
